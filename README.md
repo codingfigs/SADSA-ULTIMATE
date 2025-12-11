@@ -35,14 +35,6 @@ SADSA offers a **30-day free trial** with **ALL FEATURES ENABLED** from day one:
 - **Output Windows:** Always visible with data, only buttons are disabled based on license
 - **Instant Activation:** Changes take effect immediately without restart
 
-### License Key Format
-```
-SADSA-TYPE-MACHINEID-DAYS-MENUHASH-HASH-DATE
-```
-- Menu selections embedded in license key (no separate file needed)
-- Customer only needs the license key to activate
-- Secure encryption prevents tampering
-
 ### Activation
 - **Menu:** `Help → License → Activate License`
 - Enter license key → Menus update instantly
