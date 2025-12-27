@@ -13,35 +13,6 @@ SADSA (Software Application for Data Science and Analytics) is a comprehensive d
 
 ---
 
-## 🔐 License & Trial System
-
-### 30-Day Free Trial with Full Features
-
-SADSA offers a **30-day free trial** with **ALL FEATURES ENABLED** from day one:
-
-### License Types
-- **TRIAL:** 30-day evaluation with all features (automatic on first launch)
-- **BASIC:** Entry-level - File, Data Analytics, Help menus only
-- **STANDARD:** Custom selection - Choose specific menus for your needs
-- **PREMIUM:** Time-limited full access to all features
-- **FULL:** Lifetime license - All features, never expires
-- **ACADEMIC:** Custom selection for educational/research institutions
-- **ENTERPRISE:** Custom selection with Reports required for business use
-
-### License Features
-- **Menu Control:** Each license type controls which menu groups are accessible
-- **Reports Feature:** Controls export buttons (CSV, Excel, DOCX, PDF, ODT, TXT, Copy, Print, Plot) and Master Report functionality
-- **AI Features:** Controls AI Console, AI Insights (in output windows), and AI Research Article generation
-- **Output Windows:** Always visible with data, only buttons are disabled based on license
-- **Instant Activation:** Changes take effect immediately without restart
-
-### Activation
-- **Menu:** `Help → License → Activate License`
-- Enter license key → Menus update instantly
-- View license details: `Help → License → License Information`
-
----
-
 ## Installation Instructions
 
 ### The open source alternative to this is available at https://github.com/codingfigs/sadsa-os
